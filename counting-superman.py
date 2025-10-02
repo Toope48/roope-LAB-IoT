@@ -9,7 +9,6 @@ def count():
     for x in range(10):
         print(x)
         time.sleep(1)
-
 def superman():
     superman_real_name = ["Clark Kent", "clark kent"]
     name = input("Your name: ")
@@ -22,3 +21,4 @@ count()
 superman()
 # 3. Cleanup
 print("Program ending.")
+
